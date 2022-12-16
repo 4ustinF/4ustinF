@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am a software engineer and have experience in many game development projects.
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/4ustinF/count.svg" />
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/william-clark-8a727867/)
