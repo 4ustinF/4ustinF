@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### 📫 Reach me at 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/william-clark-8a727867/)
+
 <!--
 **4ustinF/4ustinF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
