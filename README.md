@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software engineer and have experience in many game development projects.
+I am a software engineer with experience in multiple game development projects.
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/4ustinF/count.svg" />
