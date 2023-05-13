@@ -6,7 +6,7 @@ I am a software engineer with experience in multiple game development projects.
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/william-clark-8a727867/)
-[![Website]([https://i.stack.imgur.com/gVE0j.png](https://w7.pngwing.com/pngs/549/715/png-transparent-web-development-logo-website-web-design-symmetry-internet.png)) Website](https://www.williamdeanclark.com/)
+https://www.williamdeanclark.com/
 
 <!--
 **4ustinF/4ustinF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
