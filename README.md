@@ -6,6 +6,7 @@ I am a software engineer with experience in multiple game development projects.
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/william-clark-8a727867/)
+
 https://www.williamdeanclark.com/
 
 <!--
