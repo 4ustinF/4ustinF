@@ -6,6 +6,7 @@ I am a software engineer with experience in multiple game development projects.
   <ul>
     <li>C++</li>
     <li>C#</li>
+    <li>Python</li>
     <li>HLSL</li>
   </ul>
 </details>
