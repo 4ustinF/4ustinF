@@ -24,9 +24,6 @@ I am a software engineer with experience in multiple game development projects.
 + [Linkedin](https://www.linkedin.com/in/william-clark-8a727867)
 + [Portfolio](https://www.williamdeanclark.com)
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/4ustinF/count.svg" />
-
 <!--
 **4ustinF/4ustinF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
